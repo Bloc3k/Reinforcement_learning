@@ -6,16 +6,20 @@ appear with agent that takes random actions.
 
 ## Autoinstall
 
-Make sure you have *pip, unrar* and *unzip* packages installed.  
-If you want to play on your own. You also need *pygame* and *matplotlib* python modules.  
+Make sure you have **pip**, **unrar** and **unzip** packages installed.  
+If you want to play on your own. You also need **pygame** and **matplotlib** python modules.  
 Than run `sudo ./install.sh` in your project folder to autoinstall.  
 
 ## Manual install
 
 You can also do manual installation:
 
-```pip install gym gym[atari] pyglet
-wget http://www.atarimania.com/roms/Roms.rar```
+```
+
+pip install gym gym[atari] pyglet
+wget http://www.atarimania.com/roms/Roms.rar
+
+```
 
 Extract *Roms.rar* archive
 
@@ -28,7 +32,4 @@ than extract *ROMS.zip*
 and run following command to import ROMs
 
 `/home/<your_user_name>/.local/bin/ale-import-roms .`
-
-
-
 
