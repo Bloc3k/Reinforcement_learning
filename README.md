@@ -8,7 +8,7 @@ appear with agent that takes random actions.
 
 Make sure you have **pip**, **unrar** and **unzip** packages installed.  
 If you want to play on your own. You also need **pygame** and **matplotlib** python modules.  
-Than run `sudo ./install.sh` in your project folder to autoinstall.  
+Than run `./install.sh` in your project folder to autoinstall.  
 
 ## Manual install
 
