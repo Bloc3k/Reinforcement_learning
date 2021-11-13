@@ -1,1 +1,4 @@
 ROMS/
+.idea/
+__pycache__/
+training/
